@@ -1,5 +1,5 @@
 # Guess-the-number-
- This a basially a came 
+ This a basially a game
  
  In which system will ask user to provide the any number in betweem two numbers 
  
